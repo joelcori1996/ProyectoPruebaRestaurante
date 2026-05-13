@@ -116,7 +116,7 @@
     </form>
 
     <div class="footer">
-        Sistema de pedidos © 2026 new
+        Sistema de pedidos © 2026 new  ssss
     </div>
 </div>
 
