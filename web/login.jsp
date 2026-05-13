@@ -108,7 +108,7 @@
         </div>
 
         <div class="input-group">
-            <label>Contraseña</label>
+            <label>ContraseÃ±a</label>
             <input type="password" name="password" required>
         </div>
 
@@ -116,7 +116,7 @@
     </form>
 
     <div class="footer">
-        Sistema de pedidos � 2026  
+        Sistema de pedidos © 2026  prueba
     </div>
 </div>
 
