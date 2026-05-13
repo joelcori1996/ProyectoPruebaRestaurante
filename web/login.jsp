@@ -86,7 +86,7 @@
 </head>
 
 <body>
-
+   
 <div class="login-container">
   <div style="display:flex; flex-direction:column; align-items:center; gap:10px; margin-bottom:20px;">
         <img src="img/logo-food-express.png" alt="FOOD-EXPRESS" width="80">
@@ -116,7 +116,7 @@
     </form>
 
     <div class="footer">
-        Sistema de pedidos © 2026
+        Sistema de pedidos © 2026 new
     </div>
 </div>
 
